@@ -7,8 +7,8 @@ Players connect to a server via IP address and answer questions in real time.
 ## Download
 Clone the repository or download the source files:
 ```sh
-git clone https://github.com/KkonepHuk/QuizRush
-cd QuizRush
+git clone https://github.com/Lizavetick/quiz_rush
+cd quiz_rush
 ```
 
 ## Compilation
@@ -47,7 +47,7 @@ On another device in the same network, run the client using the server’s IP:
 
 The client will ask for your name:
 ```
-Enter your name: Nikita
+Enter your name: Maria
 ```
 
 After connecting, the player will receive a welcome message and can start answering quiz questions.
